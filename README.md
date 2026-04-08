@@ -9,7 +9,7 @@ A fully styled mechanical keyboard built using only HTML and CSS.
 
 ## How to Run
 1. Clone the repo
-   git clone https://github.com/username/css-keyboard.git
+   git clone https://github.com/priyanshumishra0323/Css-keyboard.git
 2. Open index.html in any browser
 
 ## Tech Stack
