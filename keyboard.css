@@ -21,7 +21,6 @@ body{
 
  .row {
   display: flex;
- 
   gap: 6px;
 }
  
@@ -29,7 +28,7 @@ body{
   position: relative;
   width: 100px;
   height: 65px;
-  
+  cursor: pointer;
   border-radius: 10px;
   background: linear-gradient(180deg, #282828, #202020);
   box-shadow:
