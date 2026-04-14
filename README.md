@@ -20,10 +20,6 @@ A fully styled mechanical keyboard built using only HTML and CSS.
 - HTML5
 - CSS3 (Flexbox, nested selectors, transitions)
 
-## Credits
-- Single key button style: [Uiverse.io](https://uiverse.io)
-- Full keyboard layout, rows, sizing, spacing, design: Built from scratch by me
-
 # Contributor
 If you find any bugs or want to suggest improvements, 
 feel free to open an issue or submit a pull request. 
