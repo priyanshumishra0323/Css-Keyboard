@@ -18,7 +18,7 @@ body{
   border-radius: 16px;
   background-color: #d3d3d3;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-  width: 100%;
+  width: 95%;
   user-select: none;
 }
 
@@ -28,7 +28,7 @@ body{
 }
  
 .key{
-  position: relative;
+  /* position: relative; */
   width: 100px;
   height: 65px;
   cursor: pointer;
@@ -47,7 +47,7 @@ body{
   -webkit-tap-highlight-color: transparent;
 
   .letter {
-    position: absolute;
+    position: relative;
     left: 12px;
     top: 12px;
    
